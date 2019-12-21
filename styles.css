@@ -1,0 +1,144 @@
+*, *::before, *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main_nav {
+    display: block;
+    height: 100vh;
+    width: 180px;
+    background: white;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+.head5 {
+    text-transform: uppercase;
+}
+
+.head6 {
+    font-weight: 100;
+    font-size: 12px;
+}
+
+.inner_nav {
+    background: #faa226;
+    height: 90vh;
+    width: 170px;
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+.icons8 {
+    height: 25px;
+    width: 25px;
+}
+
+.nav_head {
+    position: relative;
+    background: #a10b16;
+    border-radius: 5px;
+    color: white;
+    padding: 20px 10px;
+    font-weight: 200;
+    margin: 10px 10px 150px 10px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+h6 {
+    color: white;
+    padding-left: 10px;
+}
+
+.list-items1 {
+    margin: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+}
+
+.list-items2 {
+    margin: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+}
+
+.list-items3 {
+    margin: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+}
+
+.list-items4 {
+    margin: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+}
+
+.list-items5 {
+    margin: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+}
+
+.list-items6 {
+    margin: 20px;
+    border-top: 1px solid lightyellow;
+    padding-top: 20px;
+}
+
+.list-items7 {
+    margin: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.absolute {
+    position: absolute;
+    left: 132px;
+    top: 20px;
+}
+
+.far {
+    color: white;
+}
+
+.align-center {
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    border: none;
+}
+
+h5 {
+    padding-left: 5px;
+    color: lightgray;
+}
+.fas {
+    color: lightgray;
+    background: transparent;
+}
+
+button {
+    background: none;
+    margin: 0 auto;
+    border: none;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.flip-icon {
+  transform: rotateY(180deg);
+  color: white;
+}
