@@ -61,47 +61,66 @@ h6 {
 }
 
 .list-items1 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightgray;
     padding-top: 20px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .list-items2 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightgray;
     padding-top: 20px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .list-items3 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightgray;
     padding-top: 20px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .list-items4 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightgray;
     padding-top: 20px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .list-items5 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightgray;
     padding-top: 20px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .list-items6 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightyellow;
     padding-top: 20px;
+    padding-left: 15px;
+    width: 172px;
 }
 
 .list-items7 {
-    margin: 20px;
+    margin: 20px 0;
     border-top: 1px solid lightgray;
     padding-top: 20px;
+    padding-left: 15px;
     padding-bottom: 20px;
     color: white;
+    width: 172px;
+}
+
+.ls-hover:hover {
+    cursor: pointer;
+    width: 175px;
 }
 
 .absolute {
