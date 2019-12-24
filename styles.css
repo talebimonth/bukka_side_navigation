@@ -118,11 +118,6 @@ h6 {
     width: 172px;
 }
 
-.ls-hover:hover {
-    cursor: pointer;
-    width: 175px;
-}
-
 .absolute {
     position: absolute;
     left: 132px;
